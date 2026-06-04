@@ -1,0 +1,60 @@
+# dependencies
+node_modules/
+
+# secrets and local env
+.env
+.env.*
+!.env.example
+
+# Expo / React Native
+.expo/
+.expo-shared/
+dist/
+build/
+web-build/
+expo-env.d.ts
+
+# native generated
+android/.gradle/
+android/build/
+android/app/build/
+ios/Pods/
+ios/build/
+ios/.xcode.env.local
+
+# native / signing
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# caches / reports
+.cache/
+coverage/
+.tmp/
+tmp/
+.metro-health-check*
+*.tsbuildinfo
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# database dumps / local db files
+*.sqlitedb
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+
+# local editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Supabase local temp
+supabase/.temp/
