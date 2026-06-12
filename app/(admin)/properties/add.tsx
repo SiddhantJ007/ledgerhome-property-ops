@@ -80,7 +80,7 @@ export default function AddPropertyScreen() {
         <Text style={styles.label}>City</Text>
         <TextInput
           onChangeText={setCity}
-          placeholder="Brooklyn"
+          placeholder="Austin"
           placeholderTextColor={palette.mutedText}
           style={styles.input}
           value={city}

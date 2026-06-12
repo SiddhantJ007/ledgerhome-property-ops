@@ -55,7 +55,7 @@ export default function MoreScreen() {
         </Text>
       </SectionCard>
 
-      <SectionCard title="Legal & policies" subtitle="Reference documents for the current private release.">
+      <SectionCard title="Legal & policies" subtitle="Reference documents for this public demo build.">
         <ActionLink href="/legal/terms" label="Terms of Service" />
         <ActionLink href="/legal/privacy" label="Privacy Policy" />
         <ActionLink href="/legal/disclaimer" label="Disclaimer" />

@@ -27,7 +27,7 @@ import type {
 
 const currentMonthLabel = 'March 2026';
 const defaultPropertyImage =
-  'https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=1200&q=80';
+  'https://placehold.co/1200x800/FBF8EE/010C4A?text=LedgerHome+Demo+Property';
 
 export function formatCurrency(value: number) {
   return new Intl.NumberFormat('en-US', {
@@ -108,7 +108,7 @@ export function createSeedData(): PrototypeData {
         status: 'active',
         note: 'Strong collections overall. Lobby paint refresh scheduled before leasing season.',
         coverImageUrl:
-          'https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1200&q=80',
+          'https://placehold.co/1200x800/F2E8C9/010C4A?text=Cedar+Grove+Apartments',
       },
       {
         id: 'prop-002',
@@ -118,7 +118,7 @@ export function createSeedData(): PrototypeData {
         status: 'active',
         note: 'Best-performing asset by revenue. Elevator vendor on retainer.',
         coverImageUrl:
-          'https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1200&q=80',
+          'https://placehold.co/1200x800/E9EEF8/010C4A?text=Harbor+Point+Flats',
       },
       {
         id: 'prop-003',
@@ -128,7 +128,7 @@ export function createSeedData(): PrototypeData {
         status: 'inactive',
         note: 'Being repositioned. One wing remains offline during phased improvements.',
         coverImageUrl:
-          'https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80',
+          'https://placehold.co/1200x800/F7F1E2/010C4A?text=Oak+Terrace+Homes',
       },
     ],
     propertyImages: [
@@ -136,21 +136,21 @@ export function createSeedData(): PrototypeData {
         id: 'img-001',
         propertyId: 'prop-001',
         imageUrl:
-          'https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1200&q=80',
+          'https://placehold.co/1200x800/F2E8C9/010C4A?text=Cedar+Grove+Apartments',
         label: 'Facade',
       },
       {
         id: 'img-002',
         propertyId: 'prop-002',
         imageUrl:
-          'https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1200&q=80',
+          'https://placehold.co/1200x800/E9EEF8/010C4A?text=Harbor+Point+Flats',
         label: 'Exterior',
       },
       {
         id: 'img-003',
         propertyId: 'prop-003',
         imageUrl:
-          'https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80',
+          'https://placehold.co/1200x800/F7F1E2/010C4A?text=Oak+Terrace+Homes',
         label: 'Building',
       },
     ],

@@ -1,6 +1,6 @@
 import { Platform } from 'react-native';
 
-const APP_SCHEME = 'rentalmanagement';
+const APP_SCHEME = 'ledgerhome';
 const configuredPublicAppUrl = process.env.EXPO_PUBLIC_APP_URL?.trim().replace(/\/+$/, '') ?? '';
 
 function buildSchemeUrl(pathname: string) {

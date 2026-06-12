@@ -124,7 +124,7 @@ export const legalDocuments: Record<'terms' | 'privacy' | 'disclaimer' | 'cookie
       {
         heading: 'Current scope',
         body: [
-          'The current private release is focused on mobile and authenticated app sessions. A broader web deployment is planned later, and browser cookie practices may expand at that time.',
+          'This public demo supports authenticated app sessions and a static web deployment. Browser cookie usage is limited to the standard platform and authentication flows required for the demo.',
           'Today, authenticated sessions and basic browser storage may be used where required for sign-in continuity, security, or interface preferences when the app is opened on the web.',
         ],
       },
