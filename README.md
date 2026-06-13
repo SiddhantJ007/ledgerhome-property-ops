@@ -4,6 +4,15 @@ LedgerHome is a property operations workflow app built with Expo, React Native, 
 
 LedgerHome was originally built as a rental property management MVP and later productionized into a sanitized public demo. The public version uses a separate Supabase project, demo-only auth users, seed data, environment-based configuration, and deployment documentation to demonstrate the product without exposing private client data.
 
+## Live Demo
+
+- Live app: https://ledgerhome-property-ops.vercel.app
+- Demo admin login: `demo-admin@ledgerhome-demo.com`
+- Demo admin password: `Demo@123`
+- Demo tenant login: `alex.carter@ledgerhome-demo.com`
+- Demo tenant password: `Alex@123`
+- The public demo uses fake records only and runs on a separate sanitized Supabase project
+
 ## Overview
 
 The app is organized around two role-based experiences:
@@ -27,15 +36,6 @@ I wanted a compact workflow app that treats these as connected operational probl
 ## Solution
 
 LedgerHome combines an admin workspace and a tenant workspace on top of one Supabase-backed data model. The app supports property records, unit and tenant management, maintenance requests, rent tracking, notifications, documents, and contact flows through a shared backend with role-aware access.
-
-## Live Demo
-
-- Live app: https://ledgerhome-property-ops.vercel.app
-- Demo admin login: `demo-admin@ledgerhome-demo.com`
-- Demo admin password: `Demo@123`
-- Demo tenant login: `alex.carter@ledgerhome-demo.com`
-- Demo tenant password: `Alex@123`
-- The public demo uses fake records only and runs on a separate sanitized Supabase project
 
 ## Key Features
 
