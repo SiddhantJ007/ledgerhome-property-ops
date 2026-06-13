@@ -23,7 +23,7 @@ export default function IndexScreen() {
   return (
     <ImageBackground
       source={{
-        uri: 'https://unsplash.com/photos/gray-wooden-house-178j8tJrNlc?auto=format&fit=crop&w=1400&q=80',
+        uri: 'https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       }}
       style={styles.background}>
       <View style={styles.overlay}>
