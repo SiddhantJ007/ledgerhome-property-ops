@@ -13,6 +13,29 @@ LedgerHome was originally built as a rental property management MVP and later pr
 - Demo tenant password: `Alex@123`
 - The public demo uses fake records only and runs on a separate sanitized Supabase project
 
+
+## Demo Video
+
+<a href="https://www.loom.com/share/7c47261cf9a743afba9701895094e51e" target="_blank" rel="noreferrer">
+  <img src="docs/media/welcome-screen.png" alt="LedgerHome demo walkthrough preview" width="560" />
+</a>
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="docs/media/sign-in.png" alt="LedgerHome sign-in screen" width="320" /></td>
+    <td><img src="docs/media/admin-dashboard.png" alt="LedgerHome admin dashboard" width="320" /></td>
+  </tr>
+  <tr>
+    <td><img src="docs/media/tenant-portal.png" alt="LedgerHome tenant portal" width="320" /></td>
+    <td><img src="docs/media/maintenance-flow.png" alt="LedgerHome maintenance workflow" width="320" /></td>
+  </tr>
+  <tr>
+    <td><img src="docs/media/payment-flow.png" alt="LedgerHome payment workflow" width="320" /></td>
+  </tr>
+</table>
+
 ## Overview
 
 The app is organized around two role-based experiences:

@@ -4,7 +4,12 @@ This file is meant for a recruiter, reviewer, or hiring manager who wants to und
 
 ## Live Demo Link
 
-Add the deployed Vercel URL here.
+Add the deployed Vercel URL here. You can also place the Loom walkthrough link directly below it for reviewers who prefer a guided tour.
+
+## Demo Media
+
+- Loom walkthrough: `https://www.loom.com/share/7c47261cf9a743afba9701895094e51e`
+- Screenshots used in the README: sign-in, admin dashboard, tenant portal, maintenance workflow, and payments
 
 ## Demo Accounts
 
