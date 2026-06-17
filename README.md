@@ -17,7 +17,7 @@ LedgerHome was originally built as a rental property management MVP and later pr
 ## Demo Video
 
 <a href="https://www.loom.com/share/7c47261cf9a743afba9701895094e51e" target="_blank" rel="noreferrer">
-  <img src="docs/media/welcome-screen.png" alt="LedgerHome demo walkthrough preview" width="560" />
+  <img src="docs/media/loom.png" alt="LedgerHome demo walkthrough preview" width="560" />
 </a>
 
 ## Screenshots

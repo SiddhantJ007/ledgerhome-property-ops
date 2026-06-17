@@ -8,7 +8,10 @@ Add the deployed Vercel URL here. You can also place the Loom walkthrough link d
 
 ## Demo Media
 
-- Loom walkthrough: `https://www.loom.com/share/7c47261cf9a743afba9701895094e51e`
+<a href="https://www.loom.com/share/7c47261cf9a743afba9701895094e51e" target="_blank" rel="noreferrer">
+  <img src="docs/media/loom.png" alt="LedgerHome demo walkthrough preview" width="560" />
+</a>
+
 - Screenshots used in the README: sign-in, admin dashboard, tenant portal, maintenance workflow, and payments
 
 ## Demo Accounts
